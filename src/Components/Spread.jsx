@@ -11,7 +11,7 @@ const Spread = () => {
 
                             <div className="h1  mt-10 text-center leading-none tracking-tighter">
                                    <h1 className='capitalize text-7xl sm:text-9xl'>Spread</h1>
-                                   <h1 className='capitalize text-7xl sm:text-9xl'>the news</h1>
+                                   <h1 className='capitalize text-7xl sm:text-9xl'>the neww</h1>
                                    <p className='w-[60%] mt-5 mx-auto'>
                                           Find out more about our work on these leading design and technology platforms.
                                    </p>

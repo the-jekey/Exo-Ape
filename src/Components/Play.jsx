@@ -10,16 +10,7 @@ const Play = () => {
        useEffect(() => {
               gsap.registerPlugin(ScrollTrigger);
               gsap.to(video.current, {
-                     scrollTrigger: {
-                            trigger: parent.current,
-                            top: "0 0",
-                           
-                            pin: true,
-
-                     },
-                     width:"120%",
-                     height:"120%",
-                     
+                    
               });
        });
        return (
